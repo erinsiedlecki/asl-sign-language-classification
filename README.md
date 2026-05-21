@@ -102,8 +102,8 @@ The most important finding from this project was that evaluation methodology mat
 ## Project Materials
 
 - [Project Notebook](Notebooks/asl_gesture_classification.ipynb)
-- [Final Report](Reports/Asl_Final_Report.pdf)
-- [Final Presentation](Presentations/Asl_Final_Presentation.pdf)
+- [Final Report](Reports/ASL_Final_Report.pdf)
+- [Final Presentation](Presentations/ASL_Final_Presentation.pdf)
 
 ---
 
