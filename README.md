@@ -87,6 +87,18 @@ The most important finding from this project was that evaluation methodology mat
 
 ---
 
+## Visualizations
+
+### Model Performance Comparison
+
+![Model Results](Images/model_results.png)
+
+### Training and Validation Loss Curves
+
+![Loss Curves](Images/loss_curves.png)
+
+___
+
 ## Technologies
 
 - Python
