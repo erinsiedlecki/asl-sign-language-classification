@@ -29,6 +29,12 @@ This approach forced the models to generalize to entirely unseen individuals and
 
 ---
 
+### Dataset Samples
+
+![ASL Dataset Samples](Images/dataset_samples.png)
+
+---
+
 ## Models
 
 ### Model 1 — Custom CNN
